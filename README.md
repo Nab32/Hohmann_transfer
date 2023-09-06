@@ -11,3 +11,7 @@ We create a body class with a rocket child class letting us create any planet wi
 
 All of our code was written in Python, and we used a library called Pygame for the graphics of our simulation.
 
+2 videos showcasing the simulation:
+https://www.youtube.com/watch?v=7dAfUhFeOGc
+https://www.youtube.com/watch?v=MROvHgo5GgA&t=1s
+
